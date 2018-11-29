@@ -1,0 +1,5 @@
+common:
+  database:
+    url: mysql
+    username: k
+    password: z
