@@ -3,3 +3,4 @@ common:
     url: mysql
     username: k
     password: z
+message: Hello from github.
